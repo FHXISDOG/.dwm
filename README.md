@@ -2,7 +2,7 @@
 
 Script in `bar-functions` folder form [This repository](https://github.com/joestandring/dwm-bar)
 
-Dependcy:
+Dependency:
 ```shell
 yay -S nerd-fonts-complete
 sudo pacman -S pamxier
