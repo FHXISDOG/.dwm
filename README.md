@@ -11,4 +11,4 @@ sudo pacman -S acpitools
 
 just have a simple bar
 
-![screenshot](./screenshot.jpg)
+![screenshot](screenshot.jpg)
